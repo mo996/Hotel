@@ -6,4 +6,4 @@
 -----------------------------------------
 #Mobile
 ![This is an image](test2.gif)
-<img src="test2.gif" width="250" height="250"/>
+<img src="test2.gif" width="250"/>
